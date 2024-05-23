@@ -26,7 +26,7 @@
             doxygen
             bear
             valgrind
-          ]
+          ];
         };
       });
     };
